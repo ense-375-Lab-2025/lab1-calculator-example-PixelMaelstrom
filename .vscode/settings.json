@@ -5,6 +5,6 @@
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "C:/Users/grant/Uni/ENSE375L/Lab1/lab1-calculator-example-PixelMaelstrom/lib"
+        "C:/Users/grant/Uni/ENSE375L/Lab1/lab1-calculator-example-PixelMaelstrom/lib/junit-platform-console-standalone-1.13.0-M3.jar"
     ]
 }
