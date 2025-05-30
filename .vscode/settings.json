@@ -5,6 +5,6 @@
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "/Users/trevordouglas/Repositories/GitHubClassRepos/ENSE-375-Organization/Lab/Lab-Assignment-Templates/Lab1/Calculator/lib/junit-platform-console-standalone-1.13.0-M3.jar"
+        "Users/grant/Uni/ENSE375L/Lab1/lab1-calculator-example-PixelMaelstrom/lib"
     ]
 }
